@@ -3615,6 +3615,26 @@
 		{
 			"path": "MetaHumans/Hana/Previews/BP_Hana_PreviewMeshCollection.uasset",
 			"version": "0.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Textures/male_001/1K/male_body_cavity_map.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Textures/male_001/1K/male_body_normal_map.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Textures/male_001/1K/male_body_roughness_map.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Textures/Shared/1K/male_body_mask_map.uasset",
+			"version": "1.0"
+		},
+		{
+			"path": "MetaHumans/Common/Male/Textures/Shared/1K/male_underwear_color_map.uasset",
+			"version": "1.0"
 		}
 	]
 }
